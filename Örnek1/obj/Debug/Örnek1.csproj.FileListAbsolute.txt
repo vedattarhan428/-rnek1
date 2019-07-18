@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\Örnek1\Örnek1\obj\Debug\Örnek1.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Örnek1\Örnek1\obj\Debug\Örnek1.Form1.resources
+C:\Users\asus\source\repos\Örnek1\Örnek1\obj\Debug\Örnek1.Properties.Resources.resources
+C:\Users\asus\source\repos\Örnek1\Örnek1\obj\Debug\Örnek1.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Örnek1\Örnek1\obj\Debug\Örnek1.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Örnek1\Örnek1\bin\Debug\Örnek1.exe.config
+C:\Users\asus\source\repos\Örnek1\Örnek1\bin\Debug\Örnek1.exe
+C:\Users\asus\source\repos\Örnek1\Örnek1\bin\Debug\Örnek1.pdb
+C:\Users\asus\source\repos\Örnek1\Örnek1\obj\Debug\Örnek1.exe
+C:\Users\asus\source\repos\Örnek1\Örnek1\obj\Debug\Örnek1.pdb
